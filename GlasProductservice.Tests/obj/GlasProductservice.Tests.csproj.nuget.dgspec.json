@@ -1,0 +1,165 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Fontys\\Semester6\\Individual\\GlasWebshop\\UnittestProductservice\\GlasProductservice.Tests\\GlasProductservice.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Fontys\\Semester6\\Individual\\GlasWebshop\\GlasProductservice\\GlasProductservice\\GlasProductservice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Fontys\\Semester6\\Individual\\GlasWebshop\\GlasProductservice\\GlasProductservice\\GlasProductservice.csproj",
+        "projectName": "GlasProductservice",
+        "projectPath": "D:\\Fontys\\Semester6\\Individual\\GlasWebshop\\GlasProductservice\\GlasProductservice\\GlasProductservice.csproj",
+        "packagesPath": "C:\\Users\\Metehan\\.nuget\\packages\\",
+        "outputPath": "D:\\Fontys\\Semester6\\Individual\\GlasWebshop\\GlasProductservice\\GlasProductservice\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Metehan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Fontys\\Semester6\\Individual\\GlasWebshop\\UnittestProductservice\\GlasProductservice.Tests\\GlasProductservice.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Fontys\\Semester6\\Individual\\GlasWebshop\\UnittestProductservice\\GlasProductservice.Tests\\GlasProductservice.Tests.csproj",
+        "projectName": "GlasProductservice.Tests",
+        "projectPath": "D:\\Fontys\\Semester6\\Individual\\GlasWebshop\\UnittestProductservice\\GlasProductservice.Tests\\GlasProductservice.Tests.csproj",
+        "packagesPath": "C:\\Users\\Metehan\\.nuget\\packages\\",
+        "outputPath": "D:\\Fontys\\Semester6\\Individual\\GlasWebshop\\UnittestProductservice\\GlasProductservice.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Metehan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Fontys\\Semester6\\Individual\\GlasWebshop\\GlasProductservice\\GlasProductservice\\GlasProductservice.csproj": {
+                "projectPath": "D:\\Fontys\\Semester6\\Individual\\GlasWebshop\\GlasProductservice\\GlasProductservice\\GlasProductservice.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.9.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
