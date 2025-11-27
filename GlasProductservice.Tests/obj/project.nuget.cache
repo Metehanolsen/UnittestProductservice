@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CNI3gOb86Yeba4CQc1fUZK5Q4aTu3zE9RC65UuoeyI4uB/OuCgYplwhzGHuBCc2fcLeckcQpAjq7gRsjhaaRzA==",
+  "dgSpecHash": "uIBmAiFaq/fLR2g9CggIiEGXcC66horGb32BsvMHAGCTbGdKL5nIE84hw9B8nNbnhT03SCdgstXVlp1dsASPUw==",
   "success": true,
   "projectFilePath": "D:\\Fontys\\Semester6\\Individual\\GlasWebshop\\UnittestProductservice\\GlasProductservice.Tests\\GlasProductservice.Tests.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Metehan\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\Metehan\\.nuget\\packages\\coverlet.msbuild\\6.0.0\\coverlet.msbuild.6.0.0.nupkg.sha512",
     "C:\\Users\\Metehan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\Metehan\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
     "C:\\Users\\Metehan\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.18\\microsoft.entityframeworkcore.7.0.18.nupkg.sha512",
